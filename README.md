@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goodnewsakpan
-- I am a Tech Community Builder | Blockchain/DeFi Enthusiast | Product Management Strategist | Helping Organizations Scale Through Engaged Communities
+- Tech Community Builder | Blockchain/DeFi Enthusiast | Product Management Strategist | Helping Organizations Scale Through Engaged Communities
 - 👀 I am a Frontend developer, Product Manager, Technical Writer, with passion in EduTech.
 - 🌱 I completed my learning of Software Engineering with ALX
 - 💞️ I’m looking to collaborate on projects that can help my journey
